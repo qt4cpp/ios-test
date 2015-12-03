@@ -4,6 +4,7 @@
 //
 //  Created by Ikemoto Tatsuhiko on 2015/12/03.
 //  Copyright © 2015年 Ikemoto Tatsuhiko. All rights reserved.
+//  This is comment
 //
 
 import UIKit
